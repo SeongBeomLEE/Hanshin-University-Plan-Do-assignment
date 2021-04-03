@@ -12,11 +12,11 @@
 | week6 | Ensemble |
 | week7 | 차원 축소 |
 | week8 | 군집화 |
-| week9 | 딥러닝 | 
-| week10 | 신경망 기초(NN, DNN) |
-| week11 | AutoEncoder |
-| week12 | 전이 학습 |
-| week13 | CNN |
+| week9 | 신경망 기초 |
+| week10 | 신경망 심화 |
+| week11 | CNN |
+| week12 | AutoEncoder |
+| week13 | Transfer Learning |
 | week14 | RNN |
 | week15 | GAN |
 | week16 | 그 밖의 딥러닝 모델 |
