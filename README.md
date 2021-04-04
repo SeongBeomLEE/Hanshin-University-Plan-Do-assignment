@@ -15,8 +15,8 @@
 | week9 | 신경망 기초 |
 | week10 | 신경망 심화 |
 | week11 | CNN |
-| week12 | AutoEncoder |
-| week13 | Transfer Learning |
-| week14 | RNN |
+| week12 | Transfer Learning |
+| week13 | RNN |
+| week14 | AutoEncoder |
 | week15 | GAN |
 | week16 | 그 밖의 딥러닝 모델 |
