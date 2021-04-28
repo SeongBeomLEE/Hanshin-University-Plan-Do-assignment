@@ -21,4 +21,3 @@
 | week13 | RNN |
 | week14 | AutoEncoder |
 | week15 | GAN |
-| week16 | 그 밖의 딥러닝 모델 |
