@@ -6,18 +6,18 @@
 
 | 주차 | 과제명 |
 | :--- | :--- |
-| week1 | 데이터 분석과 머신러닝 |
-| week2 | 회귀 |
-| week3 | 분류 |
-| week4 | SVM |
-| week5 | 결정트리 |
-| week6 | Ensemble |
-| week7 | 차원 축소 |
-| week8 | 군집화 |
-| week9 | 신경망 기초 |
-| week10 | 신경망 심화 |
-| week11 | CNN |
-| week12 | Transfer Learning |
-| week13 | RNN |
-| week14 | AutoEncoder |
-| week15 | GAN |
+| week1 | [데이터 분석과 머신러닝](https://github.com/SeongBeomLEE/Hanshin-University-Plan-Do-assignment/tree/main/week1) |
+| week2 | [회귀](https://github.com/SeongBeomLEE/Hanshin-University-Plan-Do-assignment/tree/main/week2) |
+| week3 | [분류](https://github.com/SeongBeomLEE/Hanshin-University-Plan-Do-assignment/tree/main/week3) |
+| week4 | [SVM](https://github.com/SeongBeomLEE/Hanshin-University-Plan-Do-assignment/tree/main/week4) |
+| week5 | [결정트리](https://github.com/SeongBeomLEE/Hanshin-University-Plan-Do-assignment/tree/main/week5) |
+| week6 | [Ensemble](https://github.com/SeongBeomLEE/Hanshin-University-Plan-Do-assignment/tree/main/week6) |
+| week7 | [차원 축소](https://github.com/SeongBeomLEE/Hanshin-University-Plan-Do-assignment/tree/main/week7) |
+| week8 | [군집화](https://github.com/SeongBeomLEE/Hanshin-University-Plan-Do-assignment/tree/main/week8) |
+| week9 | [신경망 기초](https://github.com/SeongBeomLEE/Hanshin-University-Plan-Do-assignment/tree/main/week9) |
+| week10 | [신경망 심화](https://github.com/SeongBeomLEE/Hanshin-University-Plan-Do-assignment/tree/main/week10) |
+| week11 | [CNN](https://github.com/SeongBeomLEE/Hanshin-University-Plan-Do-assignment/tree/main/week11) |
+| week12 | [Transfer Learning](https://github.com/SeongBeomLEE/Hanshin-University-Plan-Do-assignment/tree/main/week12) |
+| week13 | [RNN](https://github.com/SeongBeomLEE/Hanshin-University-Plan-Do-assignment/tree/main/week13) |
+| week14 | [AutoEncoder](https://github.com/SeongBeomLEE/Hanshin-University-Plan-Do-assignment/tree/main/week14) |
+| week15 | [GAN](https://github.com/SeongBeomLEE/Hanshin-University-Plan-Do-assignment/tree/main/week15) |
